@@ -11,11 +11,9 @@ namespace TabEx02
         static void Main(string[] args)
         {
             string[] week = new string[] { "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche" };
-            
-            {
-                Console.WriteLine(week[1]);
-                Console.WriteLine(week[4]);
-            }
+            Console.WriteLine(week[1]);
+            Console.WriteLine(week[4]);
+            // Console.WriteLine(week[1] + "\n" + week[4])  
         }
     }
 }

@@ -4,3 +4,4 @@ C:\Users\Dell\source\repos\TableListEnum\TabEx02\bin\Debug\TabEx02.pdb
 C:\Users\Dell\source\repos\TableListEnum\TabEx02\obj\Debug\TabEx02.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\TableListEnum\TabEx02\obj\Debug\TabEx02.exe
 C:\Users\Dell\source\repos\TableListEnum\TabEx02\obj\Debug\TabEx02.pdb
+C:\Users\Dell\source\repos\TableListEnum\TabEx02\obj\Debug\TabEx02.csprojAssemblyReference.cache
